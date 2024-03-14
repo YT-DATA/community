@@ -51,7 +51,7 @@
 
 ## 社区任务
 
-查看我们的[社区任务](https://github.com/username/repository/issues/108](https://github.com/ytlmd/community/issues/1)https://github.com/ytlmd/community/issues/1](https://github.com/ytlmd/community/issues/1)https://github.com/ytlmd/community/issues/1)并参与其中。
+查看我们的[社区任务](https://github.com/ytlmd/community/issues/1)并参与其中。
 
 ---
 
