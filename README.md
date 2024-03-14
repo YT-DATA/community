@@ -49,6 +49,10 @@
 
 查看我们的[贡献指南](/CONTRIBUTING.md)，获取详细的项目贡献指导。
 
+## 社区任务
+
+查看我们的[社区任务](https://github.com/username/repository/issues/108)并参与其中。
+
 ---
 
 感谢您成为我们社区的一部分！
