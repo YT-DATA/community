@@ -30,13 +30,11 @@ Member:
 
 职责
 
-Member 需要一起帮忙回复issue/pr，triage（把 issue 分配给对应模块的负责人）
+- Member 需要一起帮忙回复issue/pr，triage（把 issue 分配给对应模块的负责人）
 
 权限
 
-Triage 权限。有权限操作 issue 和 pr，例如打 label、分配问题。
-
-详细的权限说明见 [permissions-for-each-role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role)
+- Triage 权限。有权限操作 issue 和 pr，例如打 label、分配问题。详细的权限说明见 [permissions-for-each-role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role)
 
 
 
