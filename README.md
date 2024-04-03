@@ -20,23 +20,13 @@ Intalink [社区任务](https://github.com/yt-data/community/issues/1) 欢迎认
 
 Contributor：
 
-在 Intalink 的正式项目中成功提交一个 PR 并合并。
-
+- 在Intalink的正式项目中成功提交一个 PR 并合并。
 
 
 Member:
 
 - 贡献过一个有价值的 PR，例如一个 Easy 级别的社区开发任务
-
-- 有意愿一起维护社区
-
-如何申请成为 Member ?
-
-在 [community repo](https://github.com/ytlmd/community/issues)发个 issue，包括：
-做个自我介绍
-
-- 贴一下自己贡献过的 PR
-社区维护者会即时回复您。
+- 在 [community repo](https://github.com/ytlmd/community/issues)发个 issue，包括：做个自我介绍,贴一下自己贡献过的 PR社区维护者会即时回复您。
 
 职责
 
