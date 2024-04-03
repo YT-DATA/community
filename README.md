@@ -19,27 +19,25 @@ Intalink [社区任务](https://github.com/yt-data/community/issues/1) 欢迎认
 
 ## Developer Group（代码层面）
 
-Contributor：
+### Contributor：
 
 - 在Intalink的正式项目中成功提交一个 PR 并合并。
 
 
-Member:
+###  Member:
 
 - 贡献过一个有价值的 PR，例如一个 Easy 级别的社区开发任务
 - 在 [community repo](https://github.com/ytlmd/community/issues)发个 issue，包括：做个自我介绍,贴一下自己贡献过的 PR社区维护者会即时回复您。
 
-职责
+#### 职责
+ - Member 需要一起帮忙回复issue/pr，triage（把 issue 分配给对应模块的负责人）
 
-- Member 需要一起帮忙回复issue/pr，triage（把 issue 分配给对应模块的负责人）
-
-权限
-
-- Triage 权限。有权限操作 issue 和 pr，例如打 label、分配问题。详细的权限说明见 [permissions-for-each-role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role)
+#### 权限
+ - Triage 权限。有权限操作 issue 和 pr，例如打 label、分配问题。详细的权限说明见 [permissions-for-each-role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role)
 
 
 
-Committer：
+### Committer：
 
 贡献过的 PR 满足下列条件:
 
@@ -47,7 +45,6 @@ Committer：
 
 - 其中至少包含 1 个 Hard 级别 PR, 或者 4 个 Medium 级别 PR；
 
-职责
 
 社区咨询支持；
 
@@ -66,9 +63,8 @@ Committer：
 
 
 
-#Core Team
+### Core Team
 
-如何成为 Core Team 成员
 
 Core Team 成员是项目的主要决策者和领导者，负责项目的战略方向和高层管理。要成为 Core Team 的一员，您需要：
 
@@ -86,9 +82,7 @@ Core Team 的职责和权限
 
 
 
-#User Community
-
-如何参与 User Community
+### User Community
 
 User Community 对于项目来说至关重要，为项目提供宝贵的反馈和使用案例。参与 User Community，您可以：
 
