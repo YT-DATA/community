@@ -13,10 +13,11 @@ Hello~欢迎来到 Intalink 开源社区，首先感谢一直以来支持 Intali
 
 Intalink [社区任务](https://github.com/yt-data/community/issues/1) 欢迎认领!具体上手步骤可以看新手攻略：从零开始成为 Intalink 贡献者
 
-## 组织架构与晋升方式：
+## 组织架构：
 ![image](https://github.com/yt-data/INTALINK/assets/162880729/f371b48e-7b65-4333-ab4c-e0e9e43f7d8e)
 
-#Developer Group（代码层面）
+
+## Developer Group（代码层面）
 
 Contributor：
 
