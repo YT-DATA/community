@@ -1,108 +1,127 @@
-# Welcome to Intalink Open Source Community
+Hello~欢迎来到 Intalink 开源社区，首先感谢一直以来支持 Intalink 的你们 ❤
+社区随时都欢迎各种贡献，无论是简单的错别字修正、bug 修复还是增加新功能，欢迎提 issue 或 pull request 至 Github 社区，也可以添加微信：YT18526434675 联系我们。
+项目地址：https://github.com/yt-data/INTALINK
 
-Hello and welcome to the Intalink open source community. First and foremost, we want to express our heartfelt gratitude for your continuous support ❤️. Our community is always open to various contributions, whether it's a simple typo correction, bug fix, or adding new features. Please feel free to raise issues or pull requests on our GitHub community page or contact us via WeChat at: YT18526434675.
+## 提升流程
+当您在使用 Intalink 相关组件时遇到困难，可以查阅相关项目的文档查看解决方案；
+如果文档解决不了您的问题，欢迎社区所有同学通过 Github issue 区提交反馈，在 issue 里写下异常现象和复现步骤，或者是其他您想咨询的问题。发 issue 也可以方便后人，后人遇到问题时通过搜索引擎就能搜到解决方案。
+如果 issue 回复不及时，可以去微信群里找群管理员，群管理员会帮忙催项目维护者回 issue。
 
-Project link: [INTALINK on GitHub](https://github.com/yt-data/INTALINK)
+## 参与开源共建
+欢迎参与 Intalink 开源社区共建，您可以通过以下的方式参与共建：
+作为技术同学，你是否有过“想参与某个开源项目的开发、但是不知道从何下手”的感觉？ 为了帮助大家更好的参与开源项目，Intalink 社区会定期发布适合新手的新手开发任务，帮助大家 learning by doing!
 
-## Improvement Process
+Intalink [社区任务](https://github.com/yt-data/community/issues/1) 欢迎认领!具体上手步骤可以看新手攻略：从零开始成为 Intalink 贡献者
 
-When you encounter difficulties with Intalink's components, you can refer to the documentation of the relevant projects for solutions. If the documentation does not solve your problem, you are welcome to submit feedback through the GitHub issue tracker. Please describe the anomaly and the steps to reproduce in your issue. Posting issues can also help others in the future, allowing them to find solutions through search engines.
+## 组织架构：
+![image](https://github.com/yt-data/INTALINK/assets/162880729/f371b48e-7b65-4333-ab4c-e0e9e43f7d8e)
 
-If there is a delay in issue response, feel free to reach out to the group administrator on WeChat, and they will expedite a response from the project maintainers.
 
-## Participating in Open Source Collaboration
+## Developer Group（代码层面）
 
-To make it easier for everyone to participate in open source projects, Intalink community regularly publishes beginner-friendly tasks. Check out our [Community Tasks](https://github.com/yt-data/community/issues/1) and get started with the beginner's guide: _Become an Intalink Contributor from Scratch_.
+### Contributor：
 
-## Organizational Structure:
+- 在Intalink的正式项目中成功提交一个 PR 并合并。
 
-![Intalink Organizational Structure](https://github.com/yt-data/INTALINK/assets/162880729/f371b48e-7b65-4333-ab4c-e0e9e43f7d8e)
 
-## Developer Group (Code Level)
+###  Member:
 
-### Contributor:
+- 贡献过一个有价值的 PR，例如一个 Easy 级别的社区开发任务
+- 在 [community repo](https://github.com/ytlmd/community/issues)发个 issue，包括：做个自我介绍,贴一下自己贡献过的 PR社区维护者会即时回复您。
 
-- Successfully submit and merge a PR to an official Intalink project.
+#### 职责
+ - Member 需要一起帮忙回复issue/pr，triage（把 issue 分配给对应模块的负责人）
 
-### Member:
+#### 权限
+ - Triage 权限。有权限操作 issue 和 pr，例如打 label、分配问题。详细的权限说明见 [permissions-for-each-role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role)
 
-- Contributed a valuable PR, such as a community development task of Easy level.
-- Post an issue in the [community repo](https://github.com/ytlmd/community/issues), introducing yourself and linking your contributions. Community maintainers will respond promptly.
 
-#### Responsibilities
 
-- Members are expected to help respond to issues/PRs and triage them (assigning issues to the responsible module leader).
+### Committer：
 
-#### Permissions
+贡献过的 PR 满足下列条件:
 
-- Triage permissions. Authorized to manage issues and PRs, such as labeling and assigning problems. For a detailed description of permissions, see [permissions for each role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role).
+- 合并的 PR 达到 10 个；
 
-### Committer:
+- 其中至少包含 1 个 Hard 级别 PR, 或者 4 个 Medium 级别 PR；
 
-Requirements for contributed PRs:
 
-- At least 10 merged PRs;
-- At least one Hard level PR, or four Medium level PRs.
+社区咨询支持；
 
-Community consultation support:
+- 积极响应指派给您的 Issue 或 PR；
 
-- Actively respond to issues or PRs assigned to you;
-- Voting rights on major community decisions;
-- Review community PRs.
+- 对于社区重大决定的投票权；
 
-Permissions:
+- Review 社区的 PR；
 
-- Pull Request review permissions;
-- Pull Request approve permissions.
+权限
+
+- Pull Request review 权限；
+
+- Pull Request approve 权限；
+
+
+
 
 ### Core Team
 
-Core Team members are the main decision-makers and leaders of the project, responsible for strategic direction and high-level management. To become a member of the Core Team, you need:
 
-- Long-term, significant contributions to the project.
-- Demonstrated leadership and willingness to take responsibility within the community.
-- Endorsement and approval from current Core Team members.
+Core Team 成员是项目的主要决策者和领导者，负责项目的战略方向和高层管理。要成为 Core Team 的一员，您需要：
 
-Core Team Responsibilities and Permissions:
+- 在项目中长期持续的显著贡献。
+- 在社区中展现出领导力和承担责任的意愿。
+- 获得现有 Core Team 成员的推荐和批准。
 
-- Formulate the vision and roadmap for the project.
-- Make decisions on major changes and directions for the project.
-- Manage the overall operation of the community and project.
-- Mentor new members and expand the Core Team.
+Core Team 的职责和权限
+
+- 制定项目的愿景和路线图。
+- 决策关于项目的重大变更和方向。
+- 管理社区和项目的整体运作。
+- 导师新成员，并扩展 Core Team。
+
+
+
 
 ### User Community
 
-The User Community is vital for the project, providing valuable feedback and use cases. By participating in the User Community, you can:
+User Community 对于项目来说至关重要，为项目提供宝贵的反馈和使用案例。参与 User Community，您可以：
 
-- Submit bug reports and feature suggestions in the project's Issue tracker.
-- Share experiences and best practices in community forums and chat rooms.
-- Participate in user surveys and test new features.
+- 在项目的 Issue 追踪器中提交错误报告和功能建议。
+- 在社区论坛和聊天室中分享使用经验和最佳实践。
+- 参与用户调查和测试新发布的功能。
 
-The role of the User Community:
+ User Community 的作用
+ 
+- 提供产品的实际使用反馈，帮助项目团队理解用户的需求。
+- 通过分享个人故事和解决方案，协助新用户更好地使用产品。
+- 通过参与公开讨论，形成活跌的社区环境，促进用户间的交流和互助。
 
-- Provide real-user feedback to help the project team understand user needs.
-- Assist new users by sharing stories and solutions.
-- Foster a vibrant community environment through open discussions, promoting interaction and mutual support.
+认证与运营宣传
 
-## Promotion Process
+- 社区活跃用户将有机会在我们的官方公众号上进
 
-Members need to demonstrate continuous contribution and engagement. When ready, members can request a status review by submitting an issue to the community repository.
 
-## Community Guidelines
+## 提升流程
 
-We adhere to the [Contributor Covenant](https://www.contributor-covenant.org/zh-tw/). All members are expected to follow these standards.
+成员需要展示持续的贡献和参与。准备好后，成员可以通过在社区仓库提交一个issue来请求审查其状态。
 
-## Contact
+## 社区守则
 
-If you have any questions or suggestions, please contact the core team: [chenyuheng19930507@gamil.com](1010747237@qq.com)
+我们遵守[贡献者公约](https://www.contributor-covenant.org/zh-tw/)。所有成员都应该遵守这些标准。
 
-## FAQ
+## 联系方式
 
-**Q: How often are promotion reviews conducted?**
-**A:** Reviews are conducted quarterly.
+如有任何问题或建议，请联系核心团队：[chenyuheng19930507@gamil.com](1010747237@qq.com)
 
-## Contribution Guide
+## 常见问题解答
 
-Check out our [Contribution Guide](/CONTRIBUTING.md) for detailed guidance on contributing to the project.
+问：提升审核多久进行一次？
+答：审核每季度进行一次。
 
-##
+## 贡献指南
+
+查看我们的[贡献指南](/CONTRIBUTING.md)，获取详细的项目贡献指导。
+
+## 社区任务
+
+查看我们的[社区任务](https://github.com/yt-data/community/issues/1)并参与其中。
