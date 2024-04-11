@@ -1,6 +1,6 @@
 # 欢迎来到 Intalink 开源社区
 <p align="center">
-  <a href="https://github.com/YT-DATA/community/blob/main/README.md">English</a> |
+  <a href="https://github.com/YT-DATA/community/blob/main/README.md">English</a>
 </p>
 Hello~欢迎来到 Intalink 开源社区，首先感谢一直以来支持 Intalink 的你们 ❤️。我们随时欢迎各种贡献，无论是简单的错别字修正、bug 修复还是增加新功能。欢迎提 issue 或 pull request 至 Github 社区，也可以添加微信：YT18526434675 联系我们。
 
